@@ -1,7 +1,7 @@
 /*font-family: "Roboto", sans-serif;
    "Raleway", sans-serif;*/
 
-.body {
+body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: white;
@@ -167,10 +167,6 @@ text-align: left;
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize
-}
-
-.portfolio-list{
-  
 }
 
 .item-name{
