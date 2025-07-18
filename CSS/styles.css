@@ -1,7 +1,10 @@
 .body{
   margin: 0;
-  font-family:"Roboto","Ralewey" sans-serif; ;
+  font-family:"Roboto","Ralewey" sans-serif; 
+color: #434455 ;
+background-color: #FFFFFF;
 }
+
 .header{
 margin: auto;
 width: 1440px;
@@ -12,6 +15,9 @@ display: flex;
 justify-content: space-between;
 align-items: center; 
 padding: 0 20px; 
+text-transform: uppercase;
+letter-spacing: 0.03em;
+line-height: 1.17;
 }
 
 .header-nav{
@@ -20,6 +26,7 @@ height: 24px;
 }
 
 .logo{
+  font-family: "Raleway", sans-serif
   font-weight: 700;
   font-size: 24px;
   color: #4d5ae5;
