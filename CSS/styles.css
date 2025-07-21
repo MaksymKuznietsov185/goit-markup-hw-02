@@ -1,7 +1,7 @@
 /*font-family: "Roboto", sans-serif;
    "Raleway", sans-serif;*/
 
-body {
+.body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: white;
@@ -194,5 +194,18 @@ text-align: left;
 }
 
 .footer-logo{
+  color: #404bbf;
+}
+
+.footer-logo-part{
   color: #f4f4fd;
+}
+
+.footer-text{
+  font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #f4f4fd;
 }
