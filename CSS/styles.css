@@ -1,7 +1,7 @@
 /*font-family: "Roboto", sans-serif;
    "Raleway", sans-serif;*/
 
-.body {
+ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: white;
@@ -11,7 +11,7 @@ ul , ol {
   list-style-type: none;
 }
 
-.a{
+ a {
   text-decoration: none;
 }
 
