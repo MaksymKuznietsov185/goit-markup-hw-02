@@ -59,35 +59,35 @@ ul , ol {
   height: 600px;
 }
 
-.hero-title{
+.hero-title {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07;
+  line-height: 107%;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #ffffff;
+  color: #fff;
 }
 
-.hero-btn{
+.hero-btn {
+  background-color: #4D5AE5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  cursor: pointer;
   border-radius: 4px;
   padding: 16px 32px;
   width: 169px;
   height: 56px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background-color: #4d5ae5;
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.04em;
-  color: #ffffff;
-  cursor: pointer;
 }
 
 .hero-btn:hover,
 .hero-btn:focus {
- background-color: #404bbf;
+  background-color: #404BBF;
 }
 
 /*features*/
