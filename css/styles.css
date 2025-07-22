@@ -55,8 +55,6 @@ ul , ol {
 /*hero*/
 .hero{
   background-color: #2e2f42;
-  width: 1440px;
-  height: 600px;
 }
 
 .hero-title {
@@ -78,9 +76,6 @@ ul , ol {
   letter-spacing: 0.04em;
   color: #fff;
   cursor: pointer;
-  border-radius: 4px;
-  width: 169px;
-  height: 56px;
 }
 
 .hero-btn:hover,
@@ -89,16 +84,6 @@ ul , ol {
 }
 
 /*features*/
-
-.features{
-width: 1128px;
-height: 104px;
-}
-
-.features-list{
-width: 1128px;
-height: 104px;
-}
 
 .features-title-text{
 font-weight: 500;
@@ -119,8 +104,6 @@ text-align: left;
 
 /*team*/
 .team {
-    width: 1440px;
-    height: 732px;
     background-color: #f4f4fd;
 }
 
