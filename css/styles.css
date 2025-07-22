@@ -79,10 +79,8 @@ ul , ol {
   color: #fff;
   cursor: pointer;
   border-radius: 4px;
-  padding: 16px 32px;
   width: 169px;
   height: 56px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 
 .hero-btn:hover,
@@ -98,11 +96,8 @@ height: 104px;
 }
 
 .features-list{
-display: flex;
-justify-content: space-between;
 width: 1128px;
 height: 104px;
-gap: 24px;
 }
 
 .features-title-text{
