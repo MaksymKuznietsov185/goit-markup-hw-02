@@ -75,7 +75,7 @@ ul , ol {
   width: 169px;
   height: 56px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -140,7 +140,7 @@ text-align: left;
   text-align: center;
 }
 
-.team-list{
+.team-list li {
   background-color: #ffffff;
 }
 
@@ -210,15 +210,15 @@ color: #4d5ae5;
 text-transform: uppercase;
 }
 
-.footer-logo-part{
-  color: #f4f4fd;
+.footer-logo-part {
+  color:#f4f4fd;
 }
 
 .footer-text{
 font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
-line-height: 150%;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
 }
